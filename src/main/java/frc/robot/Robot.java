@@ -72,7 +72,7 @@ public class Robot extends TimedRobot {
   // Elevator Heights 
   double elevatorTop = 0;
   double elevatorBottom = -200; // copied from old code 
-  double elevatorlimb = -300; 
+  double elevatorClimb = -300; 
 
   // ARM PID 
   double armP = 0;
